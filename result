@@ -1,0 +1,49 @@
+0 ! 1 ! 2
+--+--+--
+3 ! 4 ! 5
+--+--+--
+6 ! 7 ! 8
+
+Player X, Enter position (0-8): 1
+
+0 ! X ! 2
+--+--+--
+3 ! 4 ! 5
+--+--+--
+6 ! 7 ! 8
+
+Player O, Enter position (0-8): 2
+
+0 ! X ! O
+--+--+--
+3 ! 4 ! 5
+--+--+--
+6 ! 7 ! 8
+
+Player X, Enter position (0-8): 4
+
+0 ! X ! O
+--+--+--
+3 ! X ! 5
+--+--+--
+6 ! 7 ! 8
+
+Player O, Enter position (0-8): 5
+
+0 ! X ! O
+--+--+--
+3 ! X ! O
+--+--+--
+6 ! 7 ! 8
+
+Player X, Enter position (0-8): 7
+
+0 ! X ! O
+--+--+--
+3 ! X ! O
+--+--+--
+6 ! X ! 8
+
+Player X Wins!
+
+=== Code Execution Successful ===
